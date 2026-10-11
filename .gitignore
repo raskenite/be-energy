@@ -2,8 +2,6 @@ node_modules
 .next
 dist
 .turbo
-.env
-.env.local
 *.env
 target
 scripts/.testnet-users.json
@@ -11,3 +9,7 @@ scripts/.testnet-users.json
 .claude/
 *.tsbuildinfo
 design-system/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
